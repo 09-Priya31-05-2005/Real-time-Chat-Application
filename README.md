@@ -136,3 +136,6 @@ Memory Management
 Client-side message storage is limited to prevent memory leaks during extended usage sessions, while server-side storage implements automatic cleanup of old messages.
 
 This comprehensive chat application demonstrates modern web development best practices while providing an intuitive, accessible, and visually appealing user experience that scales across devices and usage patterns.
+
+<img width="857" height="795" alt="Image" src="https://github.com/user-attachments/assets/55a89d5f-57ef-4ae8-bcd2-2a067de9e5d4" />
+<img width="1914" height="879" alt="Image" src="https://github.com/user-attachments/assets/8cdfba0b-52dd-49e9-a6ac-d2cf27af79fe" />
